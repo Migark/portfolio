@@ -1,5 +1,5 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
-![image] {file:///C:/Users/migue/OneDrive/Documentos/IoT/Projeto/Imagemportfoliocurriculo.png}
+![image] {![Imagemportfolio](https://github.com/Migark/portfolio/assets/116565116/c0428afd-50ce-438e-a2d1-d9f005e24f8d)}
 
 ## Ferramentas utilizadas:
 * HTML
