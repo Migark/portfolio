@@ -7,6 +7,6 @@
 * Flex-box
 ## Feito por:
 ### Miguel Kelbert
-### Linkedin:
-https://www.linkedin.com/in/miguel-kelbert-92886b239/
+## Linkedin:
+* https://www.linkedin.com/in/miguel-kelbert-92886b239/
 
